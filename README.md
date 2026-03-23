@@ -45,6 +45,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Divide and Conquer
@@ -70,5 +71,10 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
