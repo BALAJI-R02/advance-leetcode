@@ -8,6 +8,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0901-online-stock-span](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0901-online-stock-span/) | Medium |
+| [1472-design-browser-history](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1472-design-browser-history/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -15,6 +16,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0707-design-linked-list](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0707-design-linked-list/) | Medium |
 | [0901-online-stock-span](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0901-online-stock-span/) | Medium |
+| [1472-design-browser-history](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1472-design-browser-history/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -23,6 +25,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0901-online-stock-span/) | Medium |
+| [1472-design-browser-history](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1472-design-browser-history/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,6 +40,7 @@
 | [0162-find-peak-element](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0204-count-primes](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0204-count-primes/) | Medium |
+| [1472-design-browser-history](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1472-design-browser-history/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +88,7 @@
 | [0234-palindrome-linked-list](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0707-design-linked-list](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0707-design-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1472-design-browser-history](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1472-design-browser-history/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,4 +100,8 @@
 | [0021-merge-two-sorted-lists](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1472-design-browser-history/) | Medium |
 <!---LeetCode Topics End-->
