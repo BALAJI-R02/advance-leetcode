@@ -73,6 +73,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0053-maximum-subarray/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -143,5 +144,10 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0051-n-queens](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0051-n-queens/) | Hard |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
