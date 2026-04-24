@@ -6,7 +6,6 @@ class Solution {
             StringBuilder reversedWord = new StringBuilder(word).reverse();
             last.append(reversedWord).append(" ");
         }
-        last.deleteCharAt(last.length() - 1); 
-        return last.toString();        
+        return last.toString().trim();        
     }
 }
