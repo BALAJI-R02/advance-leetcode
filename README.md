@@ -7,6 +7,7 @@
 | [0225-implement-stack-using-queues](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0496-next-greater-element-i](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [1472-design-browser-history](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1472-design-browser-history/) | Medium |
@@ -23,6 +24,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0901-online-stock-span/) | Medium |
 ## Data Stream
@@ -49,6 +51,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0204-count-primes](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0496-next-greater-element-i](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0739-daily-temperatures](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [1472-design-browser-history](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1472-design-browser-history/) | Medium |
@@ -122,6 +125,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0205-isomorphic-strings](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0496-next-greater-element-i](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
