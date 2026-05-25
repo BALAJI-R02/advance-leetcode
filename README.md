@@ -38,6 +38,7 @@
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0649-dota2-senate](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Array
@@ -183,6 +184,7 @@
 | [0038-count-and-say](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0038-count-and-say/) | Medium |
 | [0205-isomorphic-strings](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0649-dota2-senate](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0649-dota2-senate/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -203,4 +205,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0070-climbing-stairs/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0649-dota2-senate](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0649-dota2-senate/) | Medium |
 <!---LeetCode Topics End-->
