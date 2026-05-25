@@ -40,6 +40,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0649-dota2-senate](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
+| [0950-reveal-cards-in-increasing-order](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Array
@@ -58,6 +59,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0739-daily-temperatures](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [0950-reveal-cards-in-increasing-order](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1472-design-browser-history](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
@@ -169,9 +171,11 @@
 | [0217-contains-duplicate](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0950-reveal-cards-in-increasing-order](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0950-reveal-cards-in-increasing-order](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Backtracking
