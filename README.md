@@ -46,6 +46,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0053-maximum-subarray/) | Medium |
@@ -187,6 +188,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0039-combination-sum](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0078-subsets/) | Medium |
