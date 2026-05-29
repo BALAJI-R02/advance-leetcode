@@ -170,6 +170,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Sorting
@@ -244,8 +245,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0207-course-schedule](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0207-course-schedule/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0207-course-schedule/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0207-course-schedule](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0207-course-schedule/) | Medium |
 <!---LeetCode Topics End-->
