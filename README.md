@@ -257,6 +257,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0207-course-schedule/) | Medium |
+| [1791-find-center-of-star-graph](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1791-find-center-of-star-graph/) | Easy |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
