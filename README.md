@@ -55,6 +55,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0200-number-of-islands](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0204-count-primes](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -170,6 +171,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -245,6 +247,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0200-number-of-islands](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0207-course-schedule/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
@@ -258,4 +261,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0207-course-schedule/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0200-number-of-islands/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
