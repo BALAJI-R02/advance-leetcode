@@ -100,6 +100,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0062-unique-paths](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0322-coin-change/) | Medium |
@@ -107,6 +108,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0062-unique-paths](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0204-count-primes](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0204-count-primes/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -275,4 +277,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0200-number-of-islands/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
