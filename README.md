@@ -8,6 +8,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [1472-design-browser-history](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1472-design-browser-history/) | Medium |
@@ -25,6 +26,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0901-online-stock-span/) | Medium |
 ## Data Stream
@@ -64,6 +66,7 @@
 | [0322-coin-change](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0518-coin-change-ii](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
