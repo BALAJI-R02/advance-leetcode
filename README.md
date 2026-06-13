@@ -307,6 +307,7 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0182-duplicate-emails/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0511-game-play-analysis-i/) | Easy |
+| [0577-employee-bonus](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0577-employee-bonus/) | Easy |
 | [0595-big-countries](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0595-big-countries/) | Easy |
 | [0626-exchange-seats](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0626-exchange-seats/) | Medium |
 | [0627-swap-sex-of-employees](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0627-swap-sex-of-employees/) | Easy |
