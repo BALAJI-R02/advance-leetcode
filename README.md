@@ -306,5 +306,6 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0626-exchange-seats](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0626-exchange-seats/) | Medium |
 | [1068-product-sales-analysis-i](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1068-product-sales-analysis-i/) | Easy |
+| [1757-recyclable-and-low-fat-products](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
