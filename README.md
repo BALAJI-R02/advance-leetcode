@@ -304,6 +304,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+| [0595-big-countries](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0595-big-countries/) | Easy |
 | [0626-exchange-seats](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0626-exchange-seats/) | Medium |
 | [1068-product-sales-analysis-i](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1148-article-views-i/) | Easy |
