@@ -323,6 +323,7 @@
 | [1068-product-sales-analysis-i](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1075-project-employees-i](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1075-project-employees-i/) | Easy |
 | [1148-article-views-i](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1148-article-views-i/) | Easy |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
