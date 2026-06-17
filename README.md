@@ -328,6 +328,7 @@
 | [1251-average-selling-price](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1251-average-selling-price/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
+| [1683-invalid-tweets](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 <!---LeetCode Topics End-->
