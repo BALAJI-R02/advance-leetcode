@@ -228,6 +228,7 @@
 | [0205-isomorphic-strings](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0649-dota2-senate](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0649-dota2-senate/) | Medium |
+| [0686-repeated-string-match](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0686-repeated-string-match/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -338,4 +339,8 @@
 | [1757-recyclable-and-low-fat-products](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0686-repeated-string-match](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0686-repeated-string-match/) | Medium |
 <!---LeetCode Topics End-->
