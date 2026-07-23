@@ -12,7 +12,7 @@ class Solution {
             }
             if(count==arr[i]){
                 if(max<count){
-                    max=count;
+                    max=arr[i];
                 }
             }
             count1=count;
