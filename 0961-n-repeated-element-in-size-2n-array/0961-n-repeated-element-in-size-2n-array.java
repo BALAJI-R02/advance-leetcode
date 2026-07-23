@@ -11,8 +11,8 @@ class Solution {
 
             }
             if(c==nums.length/2)
-            a=nums[i];
+            return nums[i];
         }
-        return a;
+        return -1;
     }
 }
