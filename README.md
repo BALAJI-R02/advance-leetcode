@@ -69,6 +69,7 @@
 | [0496-next-greater-element-i](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0518-coin-change-ii](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0518-coin-change-ii/) | Medium |
+| [0525-contiguous-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0739-daily-temperatures](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0739-daily-temperatures/) | Medium |
@@ -167,6 +168,7 @@
 | [0217-contains-duplicate](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0525-contiguous-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
@@ -239,6 +241,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0525-contiguous-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
