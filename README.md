@@ -103,6 +103,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0541-reverse-string-ii](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -243,6 +244,7 @@
 | [0038-count-and-say](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0038-count-and-say/) | Medium |
 | [0091-decode-ways](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0205-isomorphic-strings](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0205-isomorphic-strings/) | Easy |
+| [0541-reverse-string-ii](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0649-dota2-senate](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0649-dota2-senate/) | Medium |
