@@ -81,6 +81,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1046-last-stone-weight](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1472-design-browser-history](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [1528-shuffle-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -211,6 +212,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1046-last-stone-weight](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1046-last-stone-weight/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -229,6 +231,7 @@
 | [0347-top-k-frequent-elements](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
