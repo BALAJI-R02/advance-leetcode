@@ -62,6 +62,7 @@
 | [0198-house-robber](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0204-count-primes](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0204-count-primes/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0322-coin-change/) | Medium |
@@ -93,6 +94,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0441-arranging-coins](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0441-arranging-coins/) | Easy |
@@ -268,6 +270,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0525-contiguous-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Bucket Sort
@@ -384,6 +387,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0567-permutation-in-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0567-permutation-in-string/) | Medium |
 ## Ternary Search
 | Problem Name | Difficulty |
