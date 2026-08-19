@@ -75,6 +75,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0739-daily-temperatures](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0867-transpose-matrix](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
@@ -231,6 +232,7 @@
 | [0217-contains-duplicate](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Simulation
