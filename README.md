@@ -81,6 +81,7 @@
 | [0950-reveal-cards-in-increasing-order](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1046-last-stone-weight](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1046-last-stone-weight/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1472-design-browser-history](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1472-design-browser-history/) | Medium |
@@ -150,6 +151,7 @@
 | [0441-arranging-coins](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0441-arranging-coins/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
