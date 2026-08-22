@@ -269,6 +269,7 @@
 | [0649-dota2-senate](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0686-repeated-string-match](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0686-repeated-string-match/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1446-consecutive-characters](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1446-consecutive-characters/) | Easy |
 | [1528-shuffle-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
