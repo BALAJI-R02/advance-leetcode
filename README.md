@@ -230,6 +230,7 @@
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0207-course-schedule/) | Medium |
+| [0226-invert-binary-tree](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Sorting
@@ -315,11 +316,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0226-invert-binary-tree](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0226-invert-binary-tree](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -331,6 +334,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0200-number-of-islands](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0207-course-schedule/) | Medium |
+| [0226-invert-binary-tree](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0322-coin-change](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0322-coin-change/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
