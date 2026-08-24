@@ -14,6 +14,7 @@
 | [0901-online-stock-span](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [1472-design-browser-history](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +123,7 @@
 | [0905-sort-array-by-parity](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Divide and Conquer
@@ -286,6 +288,7 @@
 | [1768-merge-strings-alternately](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2278-percentage-of-letter-in-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2278-percentage-of-letter-in-string/) | Easy |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
