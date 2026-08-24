@@ -1,6 +1,6 @@
 class Solution {
     public int findKthPositive(int[] arr, int k) {
-        int a=arr.length;
+        //int a=arr.length;
         for(int n:arr){
             if(n<=k)
             k++;
