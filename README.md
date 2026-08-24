@@ -92,6 +92,7 @@
 | [1528-shuffle-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 ## Binary Search
@@ -256,6 +257,7 @@
 | [0867-transpose-matrix](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 ## Backtracking
@@ -289,6 +291,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2278-percentage-of-letter-in-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2278-percentage-of-letter-in-string/) | Easy |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
