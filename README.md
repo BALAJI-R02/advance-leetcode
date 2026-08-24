@@ -156,6 +156,7 @@
 | [0728-self-dividing-numbers](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -280,6 +281,7 @@
 | [1528-shuffle-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [1556-thousand-separator](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1556-thousand-separator/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2278-percentage-of-letter-in-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2278-percentage-of-letter-in-string/) | Easy |
@@ -313,6 +315,7 @@
 | ------- | ------- |
 | [0409-longest-palindrome](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0649-dota2-senate](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0649-dota2-senate/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
