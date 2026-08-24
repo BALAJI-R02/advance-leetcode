@@ -164,6 +164,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2180-count-integers-with-even-digit-sum](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -262,6 +263,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
+| [2180-count-integers-with-even-digit-sum](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
