@@ -214,6 +214,7 @@
 | [0525-contiguous-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [0771-jewels-and-stones](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
@@ -297,6 +298,7 @@
 | [0567-permutation-in-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0649-dota2-senate](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0686-repeated-string-match](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0686-repeated-string-match/) | Medium |
+| [0771-jewels-and-stones](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1446-consecutive-characters](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1446-consecutive-characters/) | Easy |
 | [1528-shuffle-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1528-shuffle-string/) | Easy |
