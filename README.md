@@ -94,6 +94,7 @@
 | [1528-shuffle-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
@@ -219,6 +220,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -330,6 +332,7 @@
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
