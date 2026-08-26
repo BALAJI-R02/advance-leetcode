@@ -75,6 +75,7 @@
 | [0525-contiguous-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -456,6 +457,7 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0567-permutation-in-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Ternary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
