@@ -102,6 +102,7 @@
 | [2073-time-needed-to-buy-tickets](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
+| [2951-find-the-peaks](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2951-find-the-peaks/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -178,6 +179,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0204-count-primes/) | Medium |
+| [2951-find-the-peaks](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2951-find-the-peaks/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
