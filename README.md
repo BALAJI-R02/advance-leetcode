@@ -434,6 +434,7 @@
 | [1633-percentage-of-users-attended-a-contest](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1683-invalid-tweets](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1683-invalid-tweets/) | Easy |
+| [1729-find-followers-count](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1729-find-followers-count/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1978-employees-whose-manager-left-the-company](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
