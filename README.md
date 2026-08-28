@@ -393,6 +393,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0078-subsets/) | Medium |
+| [0693-binary-number-with-alternating-bits](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
