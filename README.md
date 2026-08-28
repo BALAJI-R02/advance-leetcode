@@ -96,6 +96,7 @@
 | [1539-kth-missing-positive-number](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [1816-truncate-sentence](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1816-truncate-sentence/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -323,6 +324,7 @@
 | [1528-shuffle-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [1556-thousand-separator](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1556-thousand-separator/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1816-truncate-sentence](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1816-truncate-sentence/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
