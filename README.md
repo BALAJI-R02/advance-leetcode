@@ -184,6 +184,7 @@
 | [2469-convert-the-temperature](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2469-convert-the-temperature/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2544-alternating-digit-sum/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
