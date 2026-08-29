@@ -97,6 +97,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1528-shuffle-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -456,6 +457,7 @@
 | [0200-number-of-islands](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0867-transpose-matrix](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
