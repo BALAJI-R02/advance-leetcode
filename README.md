@@ -86,6 +86,7 @@
 | [0950-reveal-cards-in-increasing-order](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1046-last-stone-weight](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1046-last-stone-weight/) | Easy |
+| [1122-relative-sort-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1122-relative-sort-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
@@ -237,6 +238,7 @@
 | [0567-permutation-in-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0771-jewels-and-stones](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
+| [1122-relative-sort-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1122-relative-sort-array/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
@@ -286,6 +288,7 @@
 | [0905-sort-array-by-parity](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [1122-relative-sort-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1122-relative-sort-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
@@ -492,5 +495,14 @@
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1122-relative-sort-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1122-relative-sort-array/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1122-relative-sort-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1122-relative-sort-array/) | Easy |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1122-relative-sort-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1122-relative-sort-array/) | Easy |
 <!---LeetCode Topics End-->
