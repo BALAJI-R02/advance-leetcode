@@ -250,6 +250,7 @@
 | [1624-largest-substring-between-two-equal-characters](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [3731-find-missing-elements](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -354,6 +355,7 @@
 | [1768-merge-strings-alternately](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1816-truncate-sentence](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1816-truncate-sentence/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
