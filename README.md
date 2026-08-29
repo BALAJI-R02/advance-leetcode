@@ -97,6 +97,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1528-shuffle-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -340,6 +341,7 @@
 | [1446-consecutive-characters](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1446-consecutive-characters/) | Easy |
 | [1528-shuffle-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [1556-thousand-separator](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1556-thousand-separator/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1816-truncate-sentence](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1816-truncate-sentence/) | Easy |
