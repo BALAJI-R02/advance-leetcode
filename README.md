@@ -110,6 +110,7 @@
 | [2073-time-needed-to-buy-tickets](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
+| [2553-separate-the-digits-in-an-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2951-find-the-peaks](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2951-find-the-peaks/) | Easy |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 | [3731-find-missing-elements](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3731-find-missing-elements/) | Easy |
@@ -314,6 +315,7 @@
 | [2073-time-needed-to-buy-tickets](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2180-count-integers-with-even-digit-sum](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
+| [2553-separate-the-digits-in-an-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
