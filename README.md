@@ -114,6 +114,7 @@
 | [2109-adding-spaces-to-a-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2951-find-the-peaks](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2951-find-the-peaks/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3731-find-missing-elements/) | Easy |
@@ -195,6 +196,7 @@
 | [2180-count-integers-with-even-digit-sum](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2469-convert-the-temperature](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2469-convert-the-temperature/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2544-alternating-digit-sum/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -256,6 +258,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Recursion
@@ -463,6 +466,7 @@
 | [0867-transpose-matrix](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
