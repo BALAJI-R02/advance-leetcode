@@ -96,6 +96,7 @@
 | [1472-design-browser-history](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1528-shuffle-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1528-shuffle-string/) | Easy |
+| [1534-count-good-triplets](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1534-count-good-triplets/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -203,6 +204,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0204-count-primes/) | Medium |
+| [1534-count-good-triplets](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1534-count-good-triplets/) | Easy |
 | [2951-find-the-peaks](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2951-find-the-peaks/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
