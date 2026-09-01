@@ -101,6 +101,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1472-design-browser-history](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1528-shuffle-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [1534-count-good-triplets](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1534-count-good-triplets/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
@@ -188,6 +189,7 @@
 | [0396-rotate-function](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0518-coin-change-ii](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -539,6 +541,7 @@
 | [0567-permutation-in-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Ternary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
