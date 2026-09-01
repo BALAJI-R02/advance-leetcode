@@ -131,6 +131,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [0400-nth-digit](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0400-nth-digit/) | Medium |
 | [0441-arranging-coins](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0441-arranging-coins/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -188,6 +189,7 @@
 | [0070-climbing-stairs](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0204-count-primes](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0204-count-primes/) | Medium |
 | [0396-rotate-function](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0396-rotate-function/) | Medium |
+| [0400-nth-digit](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0400-nth-digit/) | Medium |
 | [0441-arranging-coins](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0441-arranging-coins/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
