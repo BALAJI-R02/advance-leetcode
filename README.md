@@ -57,6 +57,7 @@
 | [0053-maximum-subarray](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0064-minimum-path-sum](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0078-subsets](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0078-subsets/) | Medium |
+| [0118-pascals-triangle](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0162-find-peak-element/) | Medium |
@@ -176,6 +177,7 @@
 | [0064-minimum-path-sum](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0091-decode-ways/) | Medium |
+| [0118-pascals-triangle](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0198-house-robber](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0322-coin-change/) | Medium |
