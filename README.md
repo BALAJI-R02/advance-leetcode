@@ -206,6 +206,7 @@
 | [0062-unique-paths](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0204-count-primes](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0204-count-primes/) | Medium |
+| [0273-integer-to-english-words](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0273-integer-to-english-words/) | Hard |
 | [0396-rotate-function](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0400-nth-digit](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0400-nth-digit/) | Medium |
 | [0441-arranging-coins](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0441-arranging-coins/) | Easy |
@@ -298,6 +299,7 @@
 | [0203-remove-linked-list-elements](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0273-integer-to-english-words](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0273-integer-to-english-words/) | Hard |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -379,6 +381,7 @@
 | [0038-count-and-say](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0038-count-and-say/) | Medium |
 | [0091-decode-ways](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0205-isomorphic-strings](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0205-isomorphic-strings/) | Easy |
+| [0273-integer-to-english-words](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0273-integer-to-english-words/) | Hard |
 | [0409-longest-palindrome](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0541-reverse-string-ii](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0541-reverse-string-ii/) | Easy |
