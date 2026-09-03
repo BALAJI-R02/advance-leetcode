@@ -213,6 +213,7 @@
 | [0441-arranging-coins](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0441-arranging-coins/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
+| [0899-orderly-queue](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0899-orderly-queue/) | Hard |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -339,6 +340,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
+| [0899-orderly-queue](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0899-orderly-queue/) | Hard |
 | [0905-sort-array-by-parity](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
@@ -392,6 +394,7 @@
 | [0649-dota2-senate](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0686-repeated-string-match](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0686-repeated-string-match/) | Medium |
 | [0771-jewels-and-stones](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0771-jewels-and-stones/) | Easy |
+| [0899-orderly-queue](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0899-orderly-queue/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1408-string-matching-in-an-array/) | Easy |
@@ -601,4 +604,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Lexicographically Minimal String Rotation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0899-orderly-queue](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0899-orderly-queue/) | Hard |
 <!---LeetCode Topics End-->
