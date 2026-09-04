@@ -212,6 +212,7 @@
 | [0396-rotate-function](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0400-nth-digit](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0400-nth-digit/) | Medium |
 | [0441-arranging-coins](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0441-arranging-coins/) | Easy |
+| [0537-complex-number-multiplication](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0537-complex-number-multiplication/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0754-reach-a-number](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0754-reach-a-number/) | Medium |
@@ -360,6 +361,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0537-complex-number-multiplication](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0537-complex-number-multiplication/) | Medium |
 | [0682-baseball-game](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0832-flipping-an-image](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0867-transpose-matrix/) | Easy |
@@ -392,6 +394,7 @@
 | [0273-integer-to-english-words](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0273-integer-to-english-words/) | Hard |
 | [0409-longest-palindrome](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0434-number-of-segments-in-a-string/) | Easy |
+| [0537-complex-number-multiplication](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0537-complex-number-multiplication/) | Medium |
 | [0541-reverse-string-ii](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0567-permutation-in-string/) | Medium |
