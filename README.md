@@ -220,6 +220,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
+| [2169-count-operations-to-obtain-zero](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2469-convert-the-temperature](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2469-convert-the-temperature/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2544-alternating-digit-sum/) | Easy |
@@ -367,6 +368,7 @@
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
+| [2169-count-operations-to-obtain-zero](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
