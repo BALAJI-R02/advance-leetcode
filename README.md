@@ -100,6 +100,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [1046-last-stone-weight](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1122-relative-sort-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1122-relative-sort-array/) | Easy |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
@@ -341,6 +342,7 @@
 | [0419-battleships-in-a-board](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -413,6 +415,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
 | [1408-string-matching-in-an-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1446-consecutive-characters](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1446-consecutive-characters/) | Easy |
 | [1528-shuffle-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1528-shuffle-string/) | Easy |
@@ -630,4 +633,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
 <!---LeetCode Topics End-->
