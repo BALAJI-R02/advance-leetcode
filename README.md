@@ -21,6 +21,7 @@
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0535-encode-and-decode-tinyurl](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0707-design-linked-list](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0707-design-linked-list/) | Medium |
 | [0901-online-stock-span](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
@@ -280,6 +281,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0496-next-greater-element-i](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0525-contiguous-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0525-contiguous-array/) | Medium |
+| [0535-encode-and-decode-tinyurl](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0645-set-mismatch](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0645-set-mismatch/) | Easy |
@@ -396,6 +398,7 @@
 | [0273-integer-to-english-words](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0273-integer-to-english-words/) | Hard |
 | [0409-longest-palindrome](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0434-number-of-segments-in-a-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0434-number-of-segments-in-a-string/) | Easy |
+| [0535-encode-and-decode-tinyurl](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0537-complex-number-multiplication](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0537-complex-number-multiplication/) | Medium |
 | [0541-reverse-string-ii](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0541-reverse-string-ii/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
@@ -618,4 +621,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0899-orderly-queue](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0899-orderly-queue/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 <!---LeetCode Topics End-->
