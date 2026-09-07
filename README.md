@@ -201,6 +201,7 @@
 | [0322-coin-change](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0322-coin-change/) | Medium |
 | [0396-rotate-function](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0518-coin-change-ii](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0518-coin-change-ii/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Math
@@ -407,6 +408,7 @@
 | [0686-repeated-string-match](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0686-repeated-string-match/) | Medium |
 | [0771-jewels-and-stones](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0899-orderly-queue](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0899-orderly-queue/) | Hard |
+| [0940-distinct-subsequences-ii](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1408-string-matching-in-an-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1408-string-matching-in-an-array/) | Easy |
