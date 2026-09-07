@@ -54,6 +54,7 @@
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0046-permutations/) | Medium |
+| [0048-rotate-image](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0064-minimum-path-sum](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0064-minimum-path-sum/) | Medium |
@@ -205,6 +206,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0048-rotate-image](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0204-count-primes](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0204-count-primes/) | Medium |
@@ -520,6 +522,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0064-minimum-path-sum](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0200-number-of-islands](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0419-battleships-in-a-board/) | Medium |
