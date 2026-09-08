@@ -203,6 +203,7 @@
 | [0198-house-robber](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0322-coin-change/) | Medium |
+| [0343-integer-break](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0343-integer-break/) | Medium |
 | [0396-rotate-function](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0518-coin-change-ii](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -217,6 +218,7 @@
 | [0070-climbing-stairs](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0204-count-primes](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0204-count-primes/) | Medium |
 | [0273-integer-to-english-words](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0273-integer-to-english-words/) | Hard |
+| [0343-integer-break](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0343-integer-break/) | Medium |
 | [0396-rotate-function](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0396-rotate-function/) | Medium |
 | [0400-nth-digit](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0400-nth-digit/) | Medium |
 | [0441-arranging-coins](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0441-arranging-coins/) | Easy |
