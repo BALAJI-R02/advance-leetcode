@@ -59,6 +59,7 @@
 | [0048-rotate-image](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0055-jump-game/) | Medium |
 | [0064-minimum-path-sum](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0078-subsets](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0078-subsets/) | Medium |
 | [0118-pascals-triangle](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0118-pascals-triangle/) | Easy |
@@ -197,6 +198,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0070-climbing-stairs/) | Easy |
@@ -489,6 +491,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0055-jump-game/) | Medium |
 | [0409-longest-palindrome](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0561-array-partition](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0605-can-place-flowers/) | Easy |
