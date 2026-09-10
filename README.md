@@ -354,6 +354,7 @@
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -503,6 +504,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -510,6 +512,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
