@@ -311,6 +311,7 @@
 | [1624-largest-substring-between-two-equal-characters](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [1796-second-largest-digit-in-a-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [2540-minimum-common-value](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -441,6 +442,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1796-second-largest-digit-in-a-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1816-truncate-sentence](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1816-truncate-sentence/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
