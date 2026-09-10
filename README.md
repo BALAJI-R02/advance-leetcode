@@ -72,6 +72,7 @@
 | [0204-count-primes](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0228-summary-ranges](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0228-summary-ranges/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0322-coin-change/) | Medium |
