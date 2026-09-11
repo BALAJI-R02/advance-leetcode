@@ -317,6 +317,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -450,6 +451,7 @@
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
 | [1408-string-matching-in-an-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1446-consecutive-characters](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1446-consecutive-characters/) | Easy |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [1528-shuffle-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [1556-thousand-separator](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1556-thousand-separator/) | Easy |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
@@ -545,6 +547,7 @@
 | [0645-set-mismatch](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0693-binary-number-with-alternating-bits](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [0832-flipping-an-image](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0832-flipping-an-image/) | Easy |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [1684-count-the-number-of-consistent-strings](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 ## Breadth-First Search
@@ -677,8 +680,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 <!---LeetCode Topics End-->
