@@ -140,6 +140,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -262,6 +263,7 @@
 | [0204-count-primes](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0204-count-primes/) | Medium |
 | [1534-count-good-triplets](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1534-count-good-triplets/) | Easy |
 | [2951-find-the-peaks](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2951-find-the-peaks/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -320,6 +322,7 @@
 | [2540-minimum-common-value](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Recursion
@@ -334,6 +337,7 @@
 | [0206-reverse-linked-list](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0273-integer-to-english-words](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0273-integer-to-english-words/) | Hard |
+| [3483-unique-3-digit-even-numbers](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
