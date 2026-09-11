@@ -247,6 +247,7 @@
 | [2544-alternating-digit-sum](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2544-alternating-digit-sum/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3280-convert-date-to-binary](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -463,6 +464,7 @@
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3280-convert-date-to-binary](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
