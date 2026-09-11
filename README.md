@@ -200,6 +200,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0055-jump-game/) | Medium |
@@ -329,6 +330,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0010-regular-expression-matching](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0021-merge-two-sorted-lists](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
@@ -422,6 +424,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0013-roman-to-integer](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0022-generate-parentheses](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0038-count-and-say](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0038-count-and-say/) | Medium |
