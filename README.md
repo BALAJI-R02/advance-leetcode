@@ -55,6 +55,7 @@
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0040-combination-sum-ii/) | Medium |
+| [0041-first-missing-positive](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0046-permutations](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0051-n-queens/) | Hard |
@@ -296,6 +297,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0041-first-missing-positive](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0141-linked-list-cycle](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0205-isomorphic-strings](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0205-isomorphic-strings/) | Easy |
