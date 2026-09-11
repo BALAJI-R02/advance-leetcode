@@ -326,6 +326,7 @@
 | [2540-minimum-common-value](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3731-find-missing-elements/) | Easy |
@@ -475,6 +476,7 @@
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Prefix Sum
@@ -646,6 +648,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Ternary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
