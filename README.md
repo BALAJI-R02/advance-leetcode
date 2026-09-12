@@ -245,6 +245,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [1688-count-of-matches-in-tournament](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
@@ -412,6 +413,7 @@
 | [0832-flipping-an-image](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [1688-count-of-matches-in-tournament](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
