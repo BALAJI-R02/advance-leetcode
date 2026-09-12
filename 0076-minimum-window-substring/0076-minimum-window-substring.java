@@ -3,32 +3,31 @@ class Solution {
         int freq[]=new int[128];
         for(char c:t.toCharArray())
         freq[c]++;
-        int count=t.length();
+        int l=0;
         int min=s.length()+1;
-        int left=0;
         int start=0;
-        for(int right=0;right<s.length();right++){
-            char c=s.charAt(right);
+        int count=t.length();
+        for(int r=0;r<s.length();r++){
+            char c=s.charAt(r);
             if(freq[c]>0){
                 count--;
             }
             freq[c]--;
             while(count==0){
-                if(right-left+1<min){
-                    min=right-left+1;
-                    start=left;
+                if(r-l+1<min){
+                    min=r-l+1;
+                    start=l;
                 }
-                char x=s.charAt(left);
+                char x=s.charAt(l);
                 freq[x]++;
-                if(freq[x]>0){
-                    count++;
-                }
-                left++;
+                if(freq[x]>0)
+                count++;
+                l++;
             }
-        }
+        } 
         if(min==s.length()+1)
         return "";
         else
-        return s.substring(start,start+min); 
+        return s.substring(start,start+min);
     }
 }
