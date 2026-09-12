@@ -453,6 +453,7 @@
 | [0771-jewels-and-stones](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0771-jewels-and-stones/) | Easy |
 | [0899-orderly-queue](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0899-orderly-queue/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1108-defanging-an-ip-address](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1233-remove-sub-folders-from-the-filesystem/) | Medium |
