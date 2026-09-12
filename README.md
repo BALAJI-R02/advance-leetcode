@@ -298,6 +298,7 @@
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0041-first-missing-positive](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0041-first-missing-positive/) | Hard |
+| [0076-minimum-window-substring](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0141-linked-list-cycle](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0205-isomorphic-strings](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0205-isomorphic-strings/) | Easy |
@@ -432,6 +433,7 @@
 | [0013-roman-to-integer](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0022-generate-parentheses](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0038-count-and-say](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0038-count-and-say/) | Medium |
+| [0076-minimum-window-substring](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0091-decode-ways](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0205-isomorphic-strings](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0273-integer-to-english-words](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0273-integer-to-english-words/) | Hard |
@@ -642,6 +644,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0076-minimum-window-substring](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0567-permutation-in-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0567-permutation-in-string/) | Medium |
