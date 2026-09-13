@@ -97,6 +97,7 @@
 | [0739-daily-temperatures](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0747-largest-number-at-least-twice-of-others/) | Easy |
 | [0832-flipping-an-image](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0832-flipping-an-image/) | Easy |
+| [0835-image-overlap](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0835-image-overlap/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0867-transpose-matrix](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -595,6 +596,7 @@
 | [0200-number-of-islands](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0419-battleships-in-a-board](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0419-battleships-in-a-board/) | Medium |
 | [0832-flipping-an-image](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0832-flipping-an-image/) | Easy |
+| [0835-image-overlap](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0835-image-overlap/) | Medium |
 | [0867-transpose-matrix](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
