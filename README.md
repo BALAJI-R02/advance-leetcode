@@ -242,6 +242,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0754-reach-a-number](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0754-reach-a-number/) | Medium |
+| [0836-rectangle-overlap](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0899-orderly-queue](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0899-orderly-queue/) | Hard |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
@@ -708,4 +709,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
