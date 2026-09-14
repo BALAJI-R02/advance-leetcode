@@ -265,6 +265,7 @@
 | [3870-count-commas-in-range](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3945-digit-frequency-score](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -337,6 +338,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3731-find-missing-elements/) | Easy |
+| [3945-digit-frequency-score](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3945-digit-frequency-score/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
