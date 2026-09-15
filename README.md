@@ -403,6 +403,7 @@
 | [1122-relative-sort-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1122-relative-sort-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1859-sorting-the-sentence/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -478,6 +479,7 @@
 | [1768-merge-strings-alternately](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1816-truncate-sentence](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1816-truncate-sentence/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1859-sorting-the-sentence/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -688,6 +690,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1122-relative-sort-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1122-relative-sort-array/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1859-sorting-the-sentence/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
