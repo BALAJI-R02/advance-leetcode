@@ -191,6 +191,7 @@
 | [1768-merge-strings-alternately](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2540-minimum-common-value](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -223,6 +224,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Math
 | Problem Name | Difficulty |
@@ -485,6 +487,7 @@
 | [2129-capitalize-the-title](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2129-capitalize-the-title/) | Easy |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2224-minimum-number-of-operations-to-convert-time/) | Easy |
 | [2278-percentage-of-letter-in-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2278-percentage-of-letter-in-string/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2678-number-of-senior-citizens](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -537,6 +540,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2224-minimum-number-of-operations-to-convert-time/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Tree
