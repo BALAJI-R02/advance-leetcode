@@ -333,6 +333,7 @@
 | [1748-sum-of-unique-elements](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
+| [2325-decode-the-message](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2325-decode-the-message/) | Easy |
 | [2540-minimum-common-value](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -487,6 +488,7 @@
 | [2129-capitalize-the-title](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2129-capitalize-the-title/) | Easy |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2224-minimum-number-of-operations-to-convert-time/) | Easy |
 | [2278-percentage-of-letter-in-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2278-percentage-of-letter-in-string/) | Easy |
+| [2325-decode-the-message](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2325-decode-the-message/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2678-number-of-senior-citizens](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2678-number-of-senior-citizens/) | Easy |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
