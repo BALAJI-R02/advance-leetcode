@@ -131,6 +131,7 @@
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2016-maximum-difference-between-increasing-elements/) | Easy |
+| [2053-kth-distinct-string-in-an-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2057-smallest-index-with-equal-value](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2057-smallest-index-with-equal-value/) | Easy |
 | [2073-time-needed-to-buy-tickets](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -333,6 +334,7 @@
 | [1748-sum-of-unique-elements](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1796-second-largest-digit-in-a-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
+| [2053-kth-distinct-string-in-an-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2325-decode-the-message](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2325-decode-the-message/) | Easy |
 | [2540-minimum-common-value](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -487,6 +489,7 @@
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2053-kth-distinct-string-in-an-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2129-capitalize-the-title](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2129-capitalize-the-title/) | Easy |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2224-minimum-number-of-operations-to-convert-time/) | Easy |
@@ -524,6 +527,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1704-determine-if-string-halves-are-alike](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [2053-kth-distinct-string-in-an-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
