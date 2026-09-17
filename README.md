@@ -88,6 +88,7 @@
 | [0525-contiguous-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0561-array-partition](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0561-array-partition/) | Easy |
+| [0598-range-addition-ii](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0598-range-addition-ii/) | Easy |
 | [0605-can-place-flowers](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -246,6 +247,7 @@
 | [0400-nth-digit](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0400-nth-digit/) | Medium |
 | [0441-arranging-coins](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0441-arranging-coins/) | Easy |
 | [0537-complex-number-multiplication](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0537-complex-number-multiplication/) | Medium |
+| [0598-range-addition-ii](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0598-range-addition-ii/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0754-reach-a-number](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0754-reach-a-number/) | Medium |
