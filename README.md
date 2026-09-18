@@ -338,6 +338,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -415,6 +416,7 @@
 | [1122-relative-sort-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1122-relative-sort-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1859-sorting-the-sentence](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1859-sorting-the-sentence/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
@@ -482,6 +484,7 @@
 | [1408-string-matching-in-an-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1408-string-matching-in-an-array/) | Easy |
 | [1446-consecutive-characters](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1446-consecutive-characters/) | Easy |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1528-shuffle-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [1556-thousand-separator](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1556-thousand-separator/) | Easy |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
@@ -557,6 +560,7 @@
 | [0561-array-partition](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0649-dota2-senate](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0649-dota2-senate/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
