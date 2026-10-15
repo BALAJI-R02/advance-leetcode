@@ -356,6 +356,7 @@
 | [1796-second-largest-digit-in-a-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+| [2103-rings-and-rods](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2103-rings-and-rods/) | Easy |
 | [2325-decode-the-message](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2325-decode-the-message/) | Easy |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
@@ -521,6 +522,7 @@
 | [2000-reverse-prefix-of-word](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+| [2103-rings-and-rods](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2103-rings-and-rods/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2129-capitalize-the-title](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2129-capitalize-the-title/) | Easy |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2224-minimum-number-of-operations-to-convert-time/) | Easy |
