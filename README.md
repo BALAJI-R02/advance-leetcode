@@ -146,6 +146,7 @@
 | [2540-minimum-common-value](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2678-number-of-senior-citizens/) | Easy |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
 | [2951-find-the-peaks](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2951-find-the-peaks/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2980-check-if-bitwise-or-has-trailing-zeros/) | Easy |
@@ -357,6 +358,7 @@
 | [2325-decode-the-message](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2325-decode-the-message/) | Easy |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2540-minimum-common-value/) | Easy |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -708,6 +710,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [2841-maximum-sum-of-almost-unique-subarray](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Ternary Search
 | Problem Name | Difficulty |
