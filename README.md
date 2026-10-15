@@ -142,6 +142,7 @@
 | [2073-time-needed-to-buy-tickets](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2678-number-of-senior-citizens/) | Easy |
@@ -354,6 +355,7 @@
 | [1935-maximum-number-of-words-you-can-type](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2325-decode-the-message](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2325-decode-the-message/) | Easy |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -430,6 +432,7 @@
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
+| [2475-number-of-unequal-triplets-in-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
