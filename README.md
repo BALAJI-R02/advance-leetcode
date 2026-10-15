@@ -142,6 +142,7 @@
 | [2073-time-needed-to-buy-tickets](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -356,6 +357,7 @@
 | [1935-maximum-number-of-words-you-can-type](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2325-decode-the-message](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2325-decode-the-message/) | Easy |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2841-maximum-sum-of-almost-unique-subarray](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2841-maximum-sum-of-almost-unique-subarray/) | Medium |
@@ -558,6 +560,7 @@
 | [1704-determine-if-string-halves-are-alike](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BALAJI-R02/advance-leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
