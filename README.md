@@ -14,6 +14,7 @@
 | [0739-daily-temperatures](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/BALAJI-R02/advance-leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [1472-design-browser-history](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1472-design-browser-history/) | Medium |
+| [1544-make-the-string-great](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1544-make-the-string-great/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/BALAJI-R02/advance-leetcode/tree/main/2000-reverse-prefix-of-word/) | Easy |
@@ -492,6 +493,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1528-shuffle-string](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1528-shuffle-string/) | Easy |
+| [1544-make-the-string-great](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1544-make-the-string-great/) | Easy |
 | [1556-thousand-separator](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1556-thousand-separator/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/BALAJI-R02/advance-leetcode/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
